@@ -1,0 +1,20 @@
+{
+  "name": "billmate-pos",
+  "version": "1.0.0",
+  "description": "\"BillmatePOS is a powerful point-of-sale system designed to simplify restaurant operations and boost efficiency. Whether you run a small café or a growing QSR chain, BillmatePOS empowers your team to manage orders, billing, inventory, and customers—all from one intuitive dashboard.With features like self-ordering kiosks, real-time order tracking, UPI-ready payments, and detailed analytics, BillmatePOS helps you deliver faster service and better customer experiences. Future-proof your business with an all-in-one platform built for speed, reliability, and growth.\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "POS",
+    "Billmate"
+  ],
+  "author": "Chetan Kumar Sahu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  }
+}
